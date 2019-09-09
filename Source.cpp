@@ -4,7 +4,8 @@ int main(void)
 {
 
 	printf("hello,github\n");
-	printf("HELLO,WORLD");
+	printf("HELLO,WORLD\n");
+	printf("HELLO\n");
 
 	return 0;
 }
